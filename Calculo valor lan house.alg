@@ -1,8 +1,8 @@
 algoritmo "LanHouse"
-// Função :
-// Autor :
+// FunÃ§Ã£o : Calcular o valor do tempo gasto na LanHouse
+// Autor : Maysa Voinarski
 // Data : 24/08/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
    NomeCliente: caractere
