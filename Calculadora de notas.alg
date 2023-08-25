@@ -1,8 +1,8 @@
-algoritmo "Média do Aluno"
-// Função :
-// Autor :
+algoritmo "MÃ©dia do Aluno"
+// FunÃ§Ã£o : Dar o resultado de aprovado ou reprovado na mÃ©dia.
+// Autor : Maysa Voinarski
 // Data : 24/08/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
    nome : caractere
    N1 : real
@@ -27,5 +27,5 @@ inicio
       
       media <- (n1 + n2 + n3 + n4)/4
       
-      Escreval("Sua média é: ", media)
+      Escreval("Sua mÃ©dia Ã©: ", media)
 fimalgoritmo
